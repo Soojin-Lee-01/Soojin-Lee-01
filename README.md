@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  
+### Hi there I'm Soojin👋
+---
 
-<!--
-**Soojin-Lee-01/Soojin-Lee-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoojin-Lee-01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Soojin-Lee-01)
+  
+  
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical)
+  
+  
+  
+  </div>
