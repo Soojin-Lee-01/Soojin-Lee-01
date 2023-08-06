@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there I'm Soojin~👋
+### Hi there I'm Soojin👋
 ---
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Soojin~!&fontSize=90)
 
