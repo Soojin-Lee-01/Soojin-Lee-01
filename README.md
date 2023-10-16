@@ -12,7 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soojin-Lee-01)](https://github.com/Soojin-Lee-01/github-readme-stats)
-
-
   </div>
