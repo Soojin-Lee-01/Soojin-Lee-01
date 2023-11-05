@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there I'm Soojin👋
+### Soojin's github👋
 ---
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20Soojin%20Github&fontSize=70)
 
