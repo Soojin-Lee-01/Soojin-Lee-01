@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoojin-Lee-01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Soojin-Lee-01)
   
-  
+### 저는 ML과 Android를 연구하고 개발합니다🔥
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
