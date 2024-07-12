@@ -11,5 +11,8 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojinlee1004)](https://solved.ac/백준아이디/)
+
  
   </div>
