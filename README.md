@@ -34,7 +34,7 @@
 
 ## 🏫 Education
 
-### Duksung University (2020 - 2024)
+### Duksung University Software (2020 - 2024)
 <br>
 
 
