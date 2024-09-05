@@ -47,7 +47,21 @@
     </tr>
   </table>
 </div>
-
+<!--
+<h3 align="center">💻 Projects</h3>
+<p align="center">1. 당신의 안식</p>
+Team : DNA, 3명 개발자 1명 UI/UX 디자이너
+<br>
+2023.04 ~ 2024.02 : 구글 플레이스토어 출시
+<br>
+2024.02 ~ : 디자이너 모집 후 개선 및 유지보수 중, 플레이스토어 업데이트 전
+<p align="center">2. Admin</p>
+Team : 덕성전자, 총 3명
+<br>
+2023.04 ~ 2024.02 : 구글 플레이스토어 출시
+<br>
+2024.02 ~ : 개선 및 유지보수 중, 플레이스토어 업데이트 전
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </div>
