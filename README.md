@@ -67,7 +67,7 @@ Team : 덕성전자, 총 3명
 </div>
 
 <h3 align="center">🏫 Education</h3>
-<p align="center">Duksung University Software (2020 - 2024)</p>
+<p align="center">Duksung University Software (2020.03 - 2024.08)</p>
 
 <h3 align="center">👩‍💻 BaekJoon 👩‍💻</h3>
 
