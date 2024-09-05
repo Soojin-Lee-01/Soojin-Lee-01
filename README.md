@@ -13,38 +13,40 @@
 </div>
 
 <h3 align="center">🏆 Awards</h3>
-<table align="center">
-  <tr>
-    <th>Year</th>
-    <th>Name</th>
-    <th>Rank</th>
-    <th>Organization</th>
-  </tr>
-  <tr>
-    <td>2024.02.21</td>
-    <td>현대오토에버 배리어프리 앱 공모전</td>
-    <td>대상</td>
-    <td>과학기술정보통신부</td>
-  </tr>
-  <tr>
-    <td>2024.01.24</td>
-    <td>캡스톤 디자인 경진대회</td>
-    <td>장려상</td>
-    <td>덕성여자대학교</td>
-  </tr>
-  <tr>
-    <td>2023.09.15</td>
-    <td>졸업전시회</td>
-    <td>최우수상</td>
-    <td>덕성여자대학교 소프트웨어학과</td>
-  </tr>
-  <tr>
-    <td>2022.06.13</td>
-    <td>창업아이템 경진대회</td>
-    <td>동상</td>
-    <td>덕성여자대학교</td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <th>Year</th>
+      <th>Name</th>
+      <th>Rank</th>
+      <th>Organization</th>
+    </tr>
+    <tr>
+      <td>2024.02.21</td>
+      <td>현대오토에버 배리어프리 앱 공모전</td>
+      <td>대상</td>
+      <td>과학기술정보통신부</td>
+    </tr>
+    <tr>
+      <td>2024.01.24</td>
+      <td>캡스톤 디자인 경진대회</td>
+      <td>장려상</td>
+      <td>덕성여자대학교</td>
+    </tr>
+    <tr>
+      <td>2023.09.15</td>
+      <td>졸업전시회</td>
+      <td>최우수상</td>
+      <td>덕성여자대학교 소프트웨어학과</td>
+    </tr>
+    <tr>
+      <td>2022.06.13</td>
+      <td>창업아이템 경진대회</td>
+      <td>동상</td>
+      <td>덕성여자대학교</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
