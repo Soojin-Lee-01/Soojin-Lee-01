@@ -19,7 +19,6 @@
 
 |    Year    |                                   Name                                   |  Rank   |                                                      organization                                                      |
 | :-------------: | :---------------------------------------------------------: | :---------: | :-----------------------------------------: |
-|     `2024.08.27`      |                    성적 우수상                    | 없음 |                                                덕성여자대학교                                          |
 |     `2024.02.21`     |       현대오토에버 배리어프리 앱 공모전        | 대상  |                                        과학기술정보통신부                                        |
 |    `2024.01.24`     |            캡스톤 디자인 경진대회              | 장려상 |                                        덕성여자대학교                                            |
 |     `2023.09.15`     |             졸업전시회            | 최우수상 |                                                덕성여자대학교 소프트웨어학과                                             |
@@ -51,12 +50,17 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
+
 
 
  
