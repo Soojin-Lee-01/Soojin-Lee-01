@@ -1,94 +1,88 @@
 <div align="center">
-  <h3>Readme Soojin Diary 👋</h3>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Nice+to+meet+you!;I'm+studying+to+become+a+client+developer+😊;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-  <div>
-    <a href="https://github.com/Soojin-Lee-01">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoojin-Lee-01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-    </a>
-    <br>
-    <a href="https://sojinlee1004.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-Blog-FFA500?style=for-the-badge&logo=Blog&logoColor=white" alt="Tistory Blog">
-    </a>
-  </div>
+  Readme Soojin Diary 👋
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+to+meet+you!;I'm+studying+to+become+a+client+developer+😊;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoojin-Lee-01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Soojin-Lee-01)
+  
+  [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-FFA500?style=for-the-badge&logo=Blog&logoColor=white)](https://sojinlee1004.tistory.com/)
 </div>
 
-<h3 align="center">🏆 Awards</h3>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th>Year</th>
-      <th>Name</th>
-      <th>Rank</th>
-      <th>Organization</th>
-    </tr>
-    <tr>
-      <td>2024.02.21</td>
-      <td>현대오토에버 배리어프리 앱 공모전</td>
-      <td>대상</td>
-      <td>과학기술정보통신부</td>
-    </tr>
-    <tr>
-      <td>2024.01.24</td>
-      <td>캡스톤 디자인 경진대회</td>
-      <td>장려상</td>
-      <td>덕성여자대학교</td>
-    </tr>
-    <tr>
-      <td>2023.09.15</td>
-      <td>졸업전시회</td>
-      <td>최우수상</td>
-      <td>덕성여자대학교 소프트웨어학과</td>
-    </tr>
-    <tr>
-      <td>2022.06.13</td>
-      <td>창업아이템 경진대회</td>
-      <td>동상</td>
-      <td>덕성여자대학교</td>
-    </tr>
-  </table>
-</div>
-<!--
-<h3 align="center">💻 Projects</h3>
-<p align="center">1. 당신의 안식</p>
-Team : DNA, 3명 개발자 1명 UI/UX 디자이너
-<br>
-2023.04 ~ 2024.02 : 구글 플레이스토어 출시
-<br>
-2024.02 ~ : 디자이너 모집 후 개선 및 유지보수 중, 플레이스토어 업데이트 전
-<p align="center">2. Admin</p>
-Team : 덕성전자, 총 3명
-<br>
-2023.04 ~ 2024.02 : 구글 플레이스토어 출시
-<br>
-2024.02 ~ : 개선 및 유지보수 중, 플레이스토어 업데이트 전
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
+### 🙌 Who am I? 🙌
 
-<h3 align="center">🏫 Education</h3>
-<p align="center">Duksung University Software (2020.03 - 2024.08)</p>
+안녕하세요! **꾸준히 성장하는 개발자 이수진**입니다. 👋
 
-<h3 align="center">👩‍💻 BaekJoon 👩‍💻</h3>
+🌱 **다양한 역할을 가진 팀원들과 원활한 소통**을 위해 적극적으로 행동합니다.  
+👀 클라이언트 개발에 관심이 많으며, **배포 후에도 꾸준히 리팩토링과 개선**을 통해 더 나은 결과물을 만드는 것을 즐깁니다.  
+🔥 개발은 개발자를 위한 것이 아닌, **사용자 중심의 가치를 실현하는 데** 중점을 두고 있습니다.
 
-<div align="center">
-    <a href="https://solved.ac/sojinlee1004">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sojinlee1004" alt="Solved.ac Profile">
-    </a>
-</div>
+취미는 **자전거 타기🚴‍♂️**와 **베이킹🍪**입니다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
-</div>
+---
+
+### 🏆 Awards
+
+| Year       | Name                     | Rank    | Organization             |
+|------------|--------------------------|---------|--------------------------|
+| 2024.02.21 | 현대오토에버 배리어프리 앱 공모전 | 대상    | 과학기술정보통신부       |
+| 2024.01.24 | 캡스톤 디자인 경진대회   | 장려상  | 덕성여자대학교           |
+| 2023.09.15 | 졸업전시회               | 최우수상 | 덕성여자대학교 소프트웨어학과 |
+| 2022.06.13 | 창업아이템 경진대회      | 동상    | 덕성여자대학교           |
+
+---
+
+### 💻 Projects
+
+1. **당신의 안식** 안드로이드 어플리케이션
+   
+   **Team** : DNA, 3명 개발자 / 1명 UI/UX 디자이너
+   
+   **Period** :
+   > 2023.04 ~ 2024.02 (구글 플레이스토어 출시)  
+   > 2024.02 ~ (디자이너 모집 후 리팩토링, 개선 중 플레이스토어 업데이트 전)
+   
+   **Link** : [당신의 안식](https://play.google.com/store/apps/details?id=com.dna.beyoureyes&hl=ko)
+
+------------------------------------------------------------------------------------
+2. **Admin** 안드로이드 어플리케이션
+   
+   **Team**: 덕성전자, 3명 개발자
+   
+   **Period** :
+   > 2022.09 ~ 2023.09
+
+   **Link** : [Admin](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11723274)
+
+--------------------------------------------------------------------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical)
+
+---
+
+### 🏫 Education
+
+Duksung University Software (2020.03 - 2024.08)
+
+---
+
+### 👩‍💻 BaekJoon 👩‍💻
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojinlee1004)](https://solved.ac/sojinlee1004)
+
+---
+
+### ⚒️ Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
