@@ -13,7 +13,7 @@
 안녕하세요! **꾸준히 성장하는 개발자 이수진**입니다. 👋
 
 🌱 **다양한 역할을 가진 팀원들과 원활한 소통**을 위해 적극적으로 행동합니다.  
-👀 클라이언트 개발에 관심이 많으며, **배포 후에도 꾸준히 리팩토링과 개선**을 통해 더 나은 결과물을 만드는 것을 즐깁니다.  
+👀 **개발 후에도 꾸준히 리팩토링과 개선**을 통해 더 나은 결과물을 만드는 것을 즐깁니다.  
 🔥 개발은 개발자를 위한 것이 아닌, **사용자 중심의 가치를 실현하는 데** 중점을 두고 있습니다.
 
 취미는 **자전거 타기🚴‍♂️**와 **베이킹🍪**입니다.
@@ -87,3 +87,7 @@ Duksung University Software (2020.03 - 2024.08)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+
+## 📚 what I am studying
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
