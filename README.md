@@ -5,7 +5,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoojin-Lee-01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Soojin-Lee-01)
 
-  #### BLOG를 통해 CS 공부와 어려웠던 코딩 문제를 기록하고 있습니다.
+  #### BLOG
   [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-FFA500?style=for-the-badge&logo=Blog&logoColor=white)](https://sojinlee1004.tistory.com/)
 </div>
 
