@@ -38,12 +38,6 @@
 | [㎜Wave 레이더 포인트 클라우드 기반 손동작 인식을 위한 경량화 딥러닝 모델](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11511875) | 2023               | 제어로봇시스템학회 논문지 제29권 제9호 |
 | [재고 관리 및 도난 방지를 위한 영상분석 기반 무인 매장 관리 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11723274)   | 2024               | 한국산업정보학회논문지 제29권 제1호    |
 
-
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soojin-Lee-01&show_icons=true&theme=radical)
-
 ---
 
 ### 🏫 Education
